@@ -30,6 +30,7 @@ public class HomePage extends Fragment {
     int[] images;
     LastTest lastTest;
     Centuries cent;
+    String ts;
 
     public HomePage() {
         // Required empty public constructor
