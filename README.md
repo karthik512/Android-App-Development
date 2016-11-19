@@ -1,5 +1,6 @@
 # Android-App-Development
-Sample Android Apps
+
+This directory contains sample Android Apps which were developed to learn the basic concepts of Android App Development.
 
 Sample app available - 
 
