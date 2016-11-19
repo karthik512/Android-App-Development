@@ -3,7 +3,7 @@ Sample Android Apps
 
 Sample app available - 
 
-1) SACHINIST 
+**1) SACHINIST**
     
     Concepts used in this app are - 
         
