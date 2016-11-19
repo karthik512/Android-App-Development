@@ -1,0 +1,21 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.sachin.karthik.sachinist.HomePage">
+
+    <TextView
+        android:id="@+id/heading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Most Viewed"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/home_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical"
+        android:layout_below="@+id/heading"
+        android:layout_marginTop="10dp"/>
+
+</RelativeLayout>
