@@ -47,8 +47,8 @@ public class Messages extends Fragment {
     MessageAdapter adapter;
 
     private String jsonString = "results";
-    private static final String get_url = "http://192.168.0.7/get_mssgs.php";
-    private static final String insert_url = "http://192.168.0.7/insert_mssg.php";
+    private static final String get_url = "http://my_address/get_mssgs.php";
+    private static final String insert_url = "http://my_address/insert_mssg.php";
     private JSONArray mssgs = null;
     private String jsonResult;
 
