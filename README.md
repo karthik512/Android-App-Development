@@ -10,13 +10,13 @@ Sample app available -
     
     <p>Concepts used in this app are -</p>
         
-        <ol>
+        <ul>
         <li>Navigation Drawer</li>
         <li>Fragments and Activities</li>
         <li>CardView</li>
         <li>Image Sharing using Intent</li>
         <li>Local Database</li>
         <li>Local host to send and receive text</li>
-        </ol>
+        </ul>
     </li>
 </ol>    
