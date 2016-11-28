@@ -4,7 +4,9 @@ This directory contains sample Android Apps which were developed to learn the ba
 
 Sample app available - 
 
-**1) SACHINIST**
+<ol>
+    <li>
+    <b>SACHINIST</b>
     
     <p>Concepts used in this app are -</p>
         
@@ -16,4 +18,5 @@ Sample app available -
         <li>Local Database</li>
         <li>Local host to send and receive text</li>
         </ol>
-    
+    </li>
+</ol>    
